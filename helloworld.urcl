@@ -1,0 +1,4 @@
+IMM R1 5
+IMM R2 3
+.test
+   ADD R1 R1 R2
