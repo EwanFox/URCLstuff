@@ -2,5 +2,5 @@ IMM R1 5
 IMM R2 3
 .test
    ADD R1 R1 R2
-STR R1 M1
+STR M1 R1
 IMM R1 0
